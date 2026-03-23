@@ -131,8 +131,9 @@ docker build -t my-first-docker-image .
 ▶️ 11. Run Docker Image
 ```bash
 docker run -p 8000:8000 my-first-docker-image
-🌍 12. Test in Browser
+
 ```
+🌍 12. Test in Browser
 Open:
 ```bash
 http://localhost:8000
