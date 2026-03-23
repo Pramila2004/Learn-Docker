@@ -143,7 +143,3 @@ Output:
 {"message":"Hello from Docker"}
 ```
 
-
-```bash
-docker --version
-docker run hello-world
