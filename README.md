@@ -1,8 +1,3 @@
-# 🐳 Docker Basics – Day 1
-
-This repository contains my **Day 1 learning of Docker**, where I explored the fundamentals and dockerized a simple Node.js application.
-
----
 
 # 📌 1. What is Docker?
 
